@@ -23,7 +23,7 @@ I am a Full Stack Developer from New York City. 🗽
 - 🫱🏾‍🫲🏻 I’m looking to collaborate on OpenSource Java Projects.
 - 🤔 I’m looking for help with ... a super secret mi$$ion!
 - 💬 Ask me about ... anything.
-- 📫 How to reach me: ... dm me <a href="https://www.linkedin.com/in/terence-hamilton/">here</a>.
+- 📫 How to reach me: ... dm me on &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/terence-hamilton/)
 - 😄 Pronouns: ... he/him.
 - ⚡ Fun fact: ... In my free time, I read tech books & articles.
 ---
@@ -53,6 +53,15 @@ I am a Full Stack Developer from New York City. 🗽
    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Illustrator" **alt="Illustrator" width="40" height="40"/>
 </div>
+
+---
+
+### 🏆 My Stats:
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hamiltonmultimedia&theme=hacker&border_radius=8&fire=DD2727&background=000000&stroke=F2F2F2&currStreakNum=DDDDDD&sideNums=00C4DD)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamiltonmultimedia&layout=compact&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **HamiltonMultimedia/HamiltonMultimedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=1abc1e&lines=The+Matrix+has+you!;I'm+kidding+lol!+:P;Hello+world+and+Welcome!;I'm+getting+strong+MySpace+vibes!...:P)](https://git.io/typing-svg)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/sn2PIe598RFnHQBX9v/giphy.gif" width="150"/>
   <div id="badges">

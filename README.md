@@ -18,7 +18,7 @@
 </div>
 
 ---
-### 👨🏾‍💻 About me:
+### 👨🏾‍💻 About me :
 I am a Full Stack Developer from New York City. 🗽
 - 🔭 I’m currently working on ... Microservices Architecture Apps w/ PKI.
 - 🌱 I’m currently learning ... Spring Boot/Java Projects.
@@ -58,13 +58,17 @@ I am a Full Stack Developer from New York City. 🗽
 
 ---
 
-### 🏆 My Stats:
+### 🏆 My Stats :
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hamiltonmultimedia&theme=hacker&border_radius=8&fire=DD2727&background=000000&stroke=F2F2F2&currStreakNum=DDDDDD&sideNums=00C4DD)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamiltonmultimedia&layout=compact&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+### ✍🏾 Blog Posts :
+
+I learned how to design my profile this way from this blog <a href="https://www.sitepoint.com/github-profile-readme/">post</a> by <a href="https://github.com/itsZed0">itsZed0</a>.
 <!--
 **HamiltonMultimedia/HamiltonMultimedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

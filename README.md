@@ -60,10 +60,11 @@ I am a Technologist and Full Stack Developer from New York City. 🗽
 
 ### 🏆 My Stats :
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamiltonmultimedia&count_private=true&show_icons=true&theme=chartreuse-dark&hide=contribs&border_color=7cfc00)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hamiltonmultimedia&theme=hacker&border_radius=8&fire=DD2727&background=000000&stroke=F2F2F2&currStreakNum=DDDDDD&sideNums=00C4DD)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamiltonmultimedia&layout=compact&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamiltonmultimedia&layout=compact&theme=chartreuse-dark&show_icons=true&border_color=7cfc00)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### ✍🏾 Blog Posts :

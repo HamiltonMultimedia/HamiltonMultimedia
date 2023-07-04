@@ -19,7 +19,7 @@
 
 ---
 ### 👨🏾‍💻 About me :
-I am a Technologist and Full Stack Developer from New York City. 🗽
+I am a Technologist and Software Development Engineer from New York City. 🗽
 - 🔭 I’m currently working on ... Microservices Architecture Apps w/ PKI.
 - 🌱 I’m currently learning ... Spring Boot/Java Projects.
 - 🫱🏾‍🫲🏻 I’m looking to collaborate on OpenSource Java Projects.

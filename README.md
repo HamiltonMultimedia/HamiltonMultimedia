@@ -27,7 +27,7 @@ I am a Technologist and Full Stack Developer from New York City. 🗽
 - 💬 Ask me about ... anything.
 - 📫 How to reach me: ... dm me on &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/terence-hamilton/)
 - 😄 Pronouns: ... he/him.
-- ⚡ Fun fact: ... In my free time, I read tech books & articles.
+- ⚡ Fun fact: ... In my free time, I [write](https://terencehamilton.com/blog/my-runbook/) ✍🏾 (check out my [blog](https://terencehamilton.com/blog/my-runbook/) 📓) & read tech books & articles.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :

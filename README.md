@@ -27,7 +27,7 @@ I am a Technologist and Software Development Engineer from New York City. 🗽
 - 💬 Ask me about ... anything.
 - 📫 How to reach me: ... dm me on &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/terence-hamilton/)
 - 😄 Pronouns: ... he/him.
-- ⚡ Fun fact: ... In my free time, I [write](https://blog.hamilton-labs.com/){:target="_blank"} <a href="https://blog.hamilton-labs.com/" target="_blank" rel="noopener">write</a> ✍🏾 (check out my [blog](https://blog.hamilton-labs.com/) 📓) & read tech [books](https://blog.hamilton-labs.com/projects/notework) & [articles](https://blog.hamilton-labs.com/projects/project.1).
+- ⚡ Fun fact: ... In my free time, I [write](https://blog.hamilton-labs.com/){target="_blank"} <a href="https://blog.hamilton-labs.com/" target="_blank" rel="noopener">write</a> ✍🏾 (check out my [blog](https://blog.hamilton-labs.com/) 📓) & read tech [books](https://blog.hamilton-labs.com/projects/notework) & [articles](https://blog.hamilton-labs.com/projects/project.1).
 ---
 
 ### :hammer_and_wrench: Languages and Tools :

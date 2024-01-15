@@ -22,7 +22,7 @@
 I am a Technologist and Software Development Engineer from New York City. 🗽
 - 🔭 I’m currently working on ... [The Social NoteWork](https://blog.hamilton-labs.com/projects/notework).
 - 🌱 I’m currently learning ... [Monorepo structured](https://nx.dev/) Projects.
-- 🫱🏾‍🫲🏻 I’m looking to collaborate on Machine Learning Projects.
+- 🫱🏾‍🫲🏻 I’m looking to collaborate on [Machine Learning](https://blog.hamilton-labs.com/projects/project.4) Projects.
 - 🤔 I’m looking for help with ... a super secret mi$$ion!
 - 💬 Ask me about ... anything.
 - 📫 How to reach me: ... dm me on &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/terence-hamilton/)

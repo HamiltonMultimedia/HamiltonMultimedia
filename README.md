@@ -21,7 +21,7 @@
 ### 👨🏾‍💻 About me :
 I am a Technologist and Software Development Engineer from New York City. 🗽
 - 🔭 I’m currently working on ... [The Social NoteWork](https://blog.hamilton-labs.com/projects/notework).
-- 🌱 I’m currently learning ... Monorepo structured Projects.
+- 🌱 I’m currently learning ... [Monorepo structured](https://nx.dev/) Projects.
 - 🫱🏾‍🫲🏻 I’m looking to collaborate on Machine Learning Projects.
 - 🤔 I’m looking for help with ... a super secret mi$$ion!
 - 💬 Ask me about ... anything.

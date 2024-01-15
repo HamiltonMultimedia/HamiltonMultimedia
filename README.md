@@ -20,9 +20,9 @@
 ---
 ### 👨🏾‍💻 About me :
 I am a Technologist and Software Development Engineer from New York City. 🗽
-- 🔭 I’m currently working on ... Microservices Architecture Apps w/ PKI.
-- 🌱 I’m currently learning ... Spring Boot/Java Projects.
-- 🫱🏾‍🫲🏻 I’m looking to collaborate on OpenSource Java Projects.
+- 🔭 I’m currently working on ... [The Social NoteWork](https://blog.hamilton-labs.com/projects/notework).
+- 🌱 I’m currently learning ... Monorepo structured Projects.
+- 🫱🏾‍🫲🏻 I’m looking to collaborate on Machine Learning Projects.
 - 🤔 I’m looking for help with ... a super secret mi$$ion!
 - 💬 Ask me about ... anything.
 - 📫 How to reach me: ... dm me on &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/terence-hamilton/)

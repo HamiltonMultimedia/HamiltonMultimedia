@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/sn2PIe598RFnHQBX9v/giphy.gif" width="150"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/terence-hamilton/">
+    <a href="https://www.linkedin.com/in/terence-hamilton/" target="_blank" rel="noopener noreferrer nofollow">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
     </a>
   </div>
@@ -81,7 +81,7 @@ I am a Technologist and Software Development Engineer from New York City. 🗽
    <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="AfterEffects" **alt="AfterEffects" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Illustrator" **alt="Illustrator" width="40" height="40"/>
-  <a href="https://www.linkedin.com/in/terence-hamilton/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" **alt="LinkedIn" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/terence-hamilton/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" **alt="LinkedIn" width="40" height="40"/></a>
 
 </div>
 

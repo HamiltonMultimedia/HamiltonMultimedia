@@ -18,19 +18,23 @@
 </div>
 
 ---
-### 👨🏾‍💻 About me :
+
+### 👨🏾‍💻 About me
+
 I am a Technologist and Software Development Engineer from New York City. 🗽
+
 - 🔭 I’m currently working on ... [The Social NoteWork](https://blog.hamilton-labs.com/projects/notework).
-- 🌱 I’m currently learning ... [Monorepo structured](https://nx.dev/) Projects.
+- 🌱 I’m currently learning ... [Machine Learning](https://developers.google.com/machine-learning/crash-course), [Reinforcement Learning](https://www.synopsys.com/ai/what-is-reinforcement-learning.html) and [Deep Learning](https://www.deeplearning.ai/) for [AI](https://en.wikipedia.org/wiki/Artificial_intelligence) Projects.
 - 🫱🏾‍🫲🏻 I’m looking to collaborate on [Machine Learning](https://blog.hamilton-labs.com/projects/project.4) Projects.
 - 🤔 I’m looking for help with ... a super secret mi$$ion!
 - 💬 Ask me about ... anything.
 - 📫 How to reach me: ... dm me on &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/terence-hamilton/)
 - 😄 Pronouns: ... he/him.
 - ⚡ Fun fact: ... In my free time, I <a href="https://blog.hamilton-labs.com/" target="_blank" rel="noopener noreferrer nofollow">write</a> ✍🏾 (check out my [blog](https://blog.hamilton-labs.com/) 📓) & read tech [books](https://blog.hamilton-labs.com/projects/notework) & [articles](https://blog.hamilton-labs.com/projects/project.1).
+
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -87,7 +91,7 @@ I am a Technologist and Software Development Engineer from New York City. 🗽
 
 ---
 
-### 🏆 My Stats :
+### 🏆 My Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamiltonmultimedia&count_private=true&show_icons=true&theme=chartreuse-dark&hide=contribs&border_color=7cfc00)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -96,7 +100,8 @@ I am a Technologist and Software Development Engineer from New York City. 🗽
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamiltonmultimedia&layout=compact&theme=chartreuse-dark&show_icons=true&border_color=7cfc00&card_width=450&langs_count=10&hide=Dockerfile)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### ✍🏾 Blog Posts :
+
+### ✍🏾 Blog Posts
 
 I learned how to design my profile this way from this blog <a href="https://www.sitepoint.com/github-profile-readme/">post</a> by <a href="https://github.com/itsZed0">itsZed0</a>.
 <!--

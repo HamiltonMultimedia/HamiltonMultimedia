@@ -51,7 +51,7 @@ I am a Technologist and Software Development Engineer from New York City. 🗽
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="Fastapi" alt="Fastapi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Dot-Net Core" alt="Dot-Net Core" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="K8s" alt="K8s" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kafka" alt="Kafka" width="50" height="50"/>&nbsp;
